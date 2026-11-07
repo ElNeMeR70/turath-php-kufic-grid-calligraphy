@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/turath-php-kufic-grid-calligraphy",
+  "description": "Square Kufic (Banna'i) Calligraphy Binary Grid Layout Optimizer (مهندس الخط الكوفي المربع على الشبكة الهندسية)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
